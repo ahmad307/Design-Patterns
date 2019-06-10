@@ -1,4 +1,3 @@
-
 abstract class Shape {
 	public abstract void draw();
 }
@@ -8,7 +7,6 @@ class Circle extends Shape {
 		System.out.println("Circle is drawn!");
 	}
 }
-
 
 abstract class Command {
 	/*
